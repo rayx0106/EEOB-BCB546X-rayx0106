@@ -1,10 +1,10 @@
-** BCB546X Fall 2019
-* UNIX_Assignment
-*David D. Ray
+#BCB546X Fall 2019
+##UNIX_Assignment
+##David D. Ray
 
-*Data Inspection Workflow
+* Data Inspection Workflow
 
-*Data Processing Workflow
+* Data Processing Workflow
 
 
 
